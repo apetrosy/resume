@@ -3,7 +3,7 @@
 <hr>
 
 <p>Address:                18119 NE 91st Ct. Redmond WA, 98052 <br>
-Phone:                  (425)4994653 <br>
+Phone:                  +1-425-499-4653 <br>
 Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </p>
 
 <hr>
