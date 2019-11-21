@@ -19,7 +19,7 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 
 <h2>Experience:</h2>
 
-<p>2013-2016 : <br>
+<p>2013-2016: <br>
    <strong>QA Software Engineer; Kubisys CJSC; Yerevan, Armenia</strong>  </p>
 
 <ul>
@@ -31,7 +31,7 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 <li>Performance Testing: development and implementation of testing strategies and         procedure. Assists project team in delivering stable, more bug free             product at the  end of each development cycle.       </li>
 </ul>
 
-<p>2008-2013 : <br>
+<p>2008-2013: <br>
   <strong>QA Software Engineer in Calibre Team; Mentor Graphics Corporation; Yerevan, Armenia</strong>  </p>
 
 <ul>
@@ -43,7 +43,7 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 needed to resolve problems.  </li>
 </ul>
 
-<p>2006-2008 : <br>
+<p>2006-2008: <br>
   <strong>Junior QA Software Engineer; Ponte Solutions Inc. Yerevan, Armenia</strong></p>
 
 <ul>
@@ -54,7 +54,7 @@ needed to resolve problems.  </li>
 <li>Prepared Statistical Reports of bugs and bug charts in Excel.  </li>
 </ul>
 
-<p>2005-2006 : <br>
+<p>2005-2006: <br>
  <strong>Executive Assistant; UniCAD CJSC, Yerevan, Armenia</strong>  </p>
 
 <ul>
@@ -64,7 +64,7 @@ needed to resolve problems.  </li>
 <li>Research on Internet.  </li>
 </ul>
 
-<p>2002-2005 : <br>
+<p>2002-2005: <br>
  <strong>Actuary/Analyst; NORK Information Analytical Center; Yerevan, Armenia</strong>  </p>
 
 <ul>
