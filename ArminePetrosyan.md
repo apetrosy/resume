@@ -2,11 +2,20 @@
 
 <hr>
 
-<p>Address:                18119 NE 91st. Ct. Redmond WA, 98052 <br>
+<p>Address:                18119 NE 91st Ct. Redmond WA, 98052 <br>
 Phone:                  (425)4994653 <br>
 Email:          apetrosy@gmail.com  </p>
 
 <hr>
+
+
+<h2>COMPUTER SKILLS:</h2>
+<ul>
+<li> <strong>Programming/Scripting  Languages:</strong> Java, Python, Perl, Shell/Bash including sed and awk scripting, basic knowledge in TCL/Tk, VBA for Excel and PL/SQL </li>
+<li> <strong>OS:</strong> Unix/Linux/Solaris, Windows </li>
+<li> <strong>Web automation tools:</strong> TestComplete </li>
+<li> <strong>Virtualization technologies:</strong> VMware ESX and VCenter tools. </li>
+</ul>
 
 <h2>Experience:</h2>
 
