@@ -2,8 +2,9 @@
 
 <hr>
 
-<p>Address:                18119 NE 91st Ct. Redmond WA, 98052 <br>
-Phone:                  +1-425-499-4653 <br>
+<p>
+Address:                18119 NE 91st Ct. Redmond WA, 98052 <br>
+Phone:                  +1 425 499 4653 <br>
 Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </p>
 
 <hr>
@@ -25,7 +26,7 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 <ul>
 <li>Creating and executing test cases based on functional requirements and            appropriate  specifications, including both manual and automated testing.      </li>
 <li>Participating in project design reviews, requirements definition, and release             planning meetings through Agile/Scrum development process.      </li>
-<li>Test Plan: creation of high level test plans for customer projects that 
+<li>Test Plan: creation of high level test plans for customer projects that
     specifies testing approach specific to each project.      </li>
 <li>Issue and work time tracking system, such as JIRA and communicate with the            software engineers as needed to resolve problems.        </li>
 <li>Performance Testing: development and implementation of testing strategies and         procedure. Assists project team in delivering stable, more bug free             product at the  end of each development cycle.       </li>
@@ -75,27 +76,29 @@ needed to resolve problems.  </li>
 
 <h2>Education:</h2>
 
-<p>2001-2003 : <br>
- <strong>Master's Degree in Actuarial Sciences; Yerevan State University</strong> <br>
+<p>2001-2003: <br>
+<strong>Master's Degree in Actuarial Sciences; Yerevan State University</strong> <br>
 <em>Department of Mathematics, Chair of Actuarial Sciences. Graduated with Excellency</em>  </p>
 
-<p>1997-2001 : <br>
+<p>1997-2001: <br>
  <strong>Bachelor's Degree in Mathematics; Yerevan State University</strong> <br>
-<em>Department of Mathematics, Chair of Probability Theory and Mathematical Statistics.</em>
-<em>Graduated with Excellency</em>  </p>
+ <em>Department of Mathematics, Chair of Probability Theory and Mathematical Statistics.</em>
+ <em>Graduated with Excellency</em>
+ </p>
 
-<p>1996-1997 : <br>
+<p>1996-1997: <br>
  <strong>Specialized secondary school in physics and mathematics</strong> <br>
-<em>After A. Shahinyan, Yerevan, Armenia</em>  </p>
+ <em>After A. Shahinyan, Yerevan, Armenia</em>
+</p>
 
-<p>1995-1996 : <br>
- <strong>Specialized secondary school in physics and mathematics</strong> <br>
+<p>1995-1996: <br>
+<strong>Specialized secondary school in physics and mathematics</strong> <br>
 <em>After A.Shirakatci, Yerevan, Armenia</em>  </p>
 
 <h2>Languages:</h2>
 
 <ul>
-<li>English (fluent)    </li>
-<li>Russian (fluent)    </li>
-<li>Armenian (native)  </li>
+ <li>English (fluent)    </li>
+ <li>Russian (fluent)    </li>
+ <li>Armenian (native)  </li>
 </ul>
