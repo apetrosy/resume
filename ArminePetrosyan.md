@@ -12,13 +12,22 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 
 <h2>COMPUTER SKILLS:</h2>
 <ul>
-<li> <strong>Programming/Scripting  Languages:</strong> Java, Python, Perl, Shell/Bash including sed and awk scripting, basic knowledge in TCL/Tk, VBA for Excel and PL/SQL </li>
+<li> <strong>Programming/Scripting  Languages:</strong> Java, Python, Shell/Bash including sed and awk scripting, basic knowledge in VBA for Excel and PL/SQL </li>
 <li> <strong>OS:</strong> Unix/Linux/Solaris, Windows </li>
 <li> <strong>Web automation tools:</strong> TestComplete </li>
 <li> <strong>Virtualization technologies:</strong> VMware ESX and VCenter tools. </li>
 </ul>
 
 <h2>Experience:</h2>
+
+<p>March 2020-August 2020: <br>
+  <strong>Junior Software Engineer, Contractor at Emergent Machines, Inc. Kirkland WA, USA</strong>  </p>
+  <ul>
+<li>Development and deployment of Serverless applications to AWS.  </li>
+<li>Maintain existing RestApi services and adding more functionality.      </li>
+<li>Created  automation tests in Java using Selenium.     </li>
+<li>Issue and work time tracking system, such as JIRA. </li>
+</ul>
 
 <p>2013-2016: <br>
    <strong>QA Software Engineer; Kubisys CJSC; Yerevan, Armenia</strong>  </p>
