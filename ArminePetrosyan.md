@@ -12,7 +12,7 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 
 <h2>COMPUTER SKILLS:</h2>
 <ul>
-<li> <strong>Programming/Scripting  Languages:</strong> Java, Python, Shell/Bash including sed and awk scripting, basic knowledge in VBA for Excel and PL/SQL </li>
+<li> <strong>Programming/Scripting  Languages:</strong> Java, Python, Shell/Bash including sed and awk scripting, basic knowledge in TypeScript/JavaScript, VBA for Excel and PL/SQL </li>
 <li> <strong>OS:</strong> Unix/Linux/Solaris, Windows </li>
 <li> <strong>Web automation tools:</strong> TestComplete </li>
 <li> <strong>Virtualization technologies:</strong> VMware ESX and VCenter tools. </li>
