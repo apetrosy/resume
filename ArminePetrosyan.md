@@ -20,7 +20,7 @@ Email:          <a href="mailto: apetrosy@gmail.com"> apetrosy@gmail.com </a> </
 
 <h2>Experience:</h2>
 
-<p>March 2020:August - nowadays: <br>
+<p>March 2020 - nowadays: <br>
   <strong>Junior Software Engineer, Contractor at Emergent Machines, Inc. Kirkland WA, USA</strong>  </p>
   <ul>
 <li>Development and deployment of Serverless applications to AWS.  </li>
